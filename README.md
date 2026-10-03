@@ -1,12 +1,6 @@
 # 🔎 Exosy OSINT
 
-\<p align="center">
-&#x20; \<b>Türkçe • Basit • Terminal Tabanlı OSINT Aracı\</b>
-\</p>
-
-\<p align="center">
-&#x20; Açık kaynaklardan temel alan adı, web sunucusu ve güvenlik bilgilerini toplamak için geliştirilmiş Python tabanlı bir OSINT aracıdır.
-\</p>
+/h1 p align="center"> b Türkçe • Basit • Terminal Tabanlı OSINT /b /p p align="center"> Açık kaynaklardan temel alan adı, web sunucusu ve güvenlik bilgilerini toplamak için geliştirilmiş Python tabanlı bir OSINT aracıdır. /p
 
 ---
 
